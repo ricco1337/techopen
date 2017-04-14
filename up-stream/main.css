@@ -1,0 +1,36 @@
+body{
+  background:lightgray;
+}
+
+.main{
+  margin: 0 auto;
+   background: white;
+   width: 100%;
+   height: 10vh;
+   position: fixed;
+}
+
+.logo{
+  float: left;
+   width: 9.5vh;
+   height: 9.5vh;
+   padding-top: 2.5%;
+   padding-left: 2.3%;
+   padding-right: 2.3%;
+   padding-bottom:2%;
+}
+
+.menu{
+  height: 2vh;
+  position: absolute;
+  top: 4vh;
+  right:3vh;
+}
+.main_content{
+ background: url("./img/baldy.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ height:37.5vh;
+ padding-top: 15vh;
+}
